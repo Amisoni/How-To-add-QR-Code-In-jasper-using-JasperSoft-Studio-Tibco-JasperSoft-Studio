@@ -6,8 +6,8 @@
   
  ![image](https://user-images.githubusercontent.com/55349992/162631610-40d30d3b-32d7-4592-9055-370cb9ad08a1.png)
     
-  **_2.In QR Propeties Select Code Expression and add your variable Or Data in Code Expression Field._**
-    Select Now in Evaluation Time.
+  **_2.In QR Propeties Select Code Expression and add your variable Or Data in Code Expression Field.
+    Select Now in Evaluation Time._**
     
   ![image](https://user-images.githubusercontent.com/55349992/162631620-3fffcae4-5123-43fa-8591-7f7aa7e27478.png)
 
