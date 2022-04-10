@@ -26,7 +26,7 @@
 
 ▶️  Configration in Your IDE
 
-  **_1. In your IDE **WebContent/WEB-INF/classes** make jasperreports.properties file [ if not created or else update ] ._** in file Write      
+  **_1. In your IDE **WebContent/WEB-INF/classes** make jasperreports.properties file [ if not created or else update] ._** in file Write      
        👉 net.sf.jasperreports.components.barcode4j.image.producer=image
 
   **_2. Add jar Files in your lib folder._**
